@@ -12,8 +12,7 @@ src/main/scala-2.11/project1.scala
 
 Remote Actor Setup:
 
-1. 	The project directory has been uploaded in a .ZIP file.
-	cd to the project directory. 
+1.	cd to the project directory. 
 2. 	Open src/main/resources/application.conf
 3.	Edit hostname field in the file to the ipaddress of the current working machine.
 4. 	Make sure that the provider field is set to akka.remote.RemoteActorRefProvider
